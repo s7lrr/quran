@@ -1,17 +1,13 @@
-<<<<<<< HEAD
-# بوت quran
+# Quran & Athkar Bot
 
-## التشغيل
-1. فعّل **Message Content Intent** من Discord Developer Portal ← Bot.
-2. انسخ `.env.example` الى `.env` وحط التوكن وايديك في `OWNER_ID`.
-3. `npm install` ثم `npm start` (يفضل تشغيله بـ pm2 عشان امر `$restart`).
-4. صلاحيات البوت: Send Messages, Embed Links, Attach Files, Manage Channels (للتعزية).
-5. غيّر اسم البوت الى quran بامر `$setname quran`.
+بوت Discord إسلامي مخصص لنشر الأذكار والتذكير بذكر الله داخل السيرفرات.
 
-## الاوامر (للاونرات فقط)
-`$help` `$azkar` `$trigger` `$setroom` `$send` `$cats` `$taazia` `$taaziacat` `$settings`
-`$setname` `$setavatar` `$setgame` `$prefix` `$owners` `$ownerlist` `$restart`
-=======
-# quran
-quran bot
->>>>>>> 25fa8d48e4868d867965f7cc756219c8c9519359
+يهدف المشروع إلى توفير بيئة إيمانية تساعد الأعضاء على المحافظة على الأذكار اليومية، من خلال أنظمة تلقائية لنشر الأذكار وتخصيص القنوات، بالإضافة إلى مجموعة من الأدوات الإدارية وأنظمة الحماية.
+
+تم تطوير المشروع باستخدام JavaScript وNode.js، مع التركيز على سهولة الاستخدام والتنظيم وقابلية التطوير.
+
+نسأل الله أن يجعل هذا العمل خالصاً لوجهه الكريم، وأن ينفع به، ويجعله سبباً في نشر الخير والتذكير بذكره.
+
+**قال الله تعالى:**
+
+> ﴿أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ﴾
