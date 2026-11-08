@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # بوت quran
 
 ## التشغيل
@@ -10,3 +11,7 @@
 ## الاوامر (للاونرات فقط)
 `$help` `$azkar` `$trigger` `$setroom` `$send` `$cats` `$taazia` `$taaziacat` `$settings`
 `$setname` `$setavatar` `$setgame` `$prefix` `$owners` `$ownerlist` `$restart`
+=======
+# quran
+quran bot
+>>>>>>> 25fa8d48e4868d867965f7cc756219c8c9519359
