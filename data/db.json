@@ -1,0 +1,75 @@
+{
+  "prefix": "$",
+  "owners": [],
+  "game": "📖 أذكار | $help",
+  "guilds": {
+    "1562160314143866902": {
+      "channel": "1562870497803247778",
+      "enabled": true,
+      "tz": "Asia/Riyadh",
+      "schedule": [
+        {
+          "time": "03:30",
+          "cat": "qiyam",
+          "id": "d0"
+        },
+        {
+          "time": "05:00",
+          "cat": "fajr",
+          "id": "d1"
+        },
+        {
+          "time": "06:30",
+          "cat": "morning",
+          "id": "d2"
+        },
+        {
+          "time": "07:30",
+          "cat": "work",
+          "id": "d3"
+        },
+        {
+          "time": "09:30",
+          "cat": "duha",
+          "id": "d4"
+        },
+        {
+          "time": "12:30",
+          "cat": "dhuhr",
+          "id": "d5"
+        },
+        {
+          "time": "15:45",
+          "cat": "asr",
+          "id": "d6"
+        },
+        {
+          "time": "17:45",
+          "cat": "maghrib",
+          "id": "d7"
+        },
+        {
+          "time": "20:00",
+          "cat": "isha",
+          "id": "d8"
+        },
+        {
+          "time": "22:30",
+          "cat": "sleep",
+          "id": "d9"
+        },
+        {
+          "time": "10:00",
+          "cat": "friday",
+          "onlyFri": true,
+          "id": "d10"
+        }
+      ],
+      "custom": {},
+      "triggers": {
+        "حش": "**سبحانك اللهم وبحمدك، أشهد أن لا إله إلا أنت، أستغفرك وأتوب إليك**"
+      },
+      "taaziaCategory": null
+    }
+  }
+}
